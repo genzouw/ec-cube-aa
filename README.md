@@ -1,5 +1,10 @@
 # ec-cube-aa
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/genzouw/ec-cube-aa.svg?style=for-the-badge)](https://hub.docker.com/r/genzouw/ec-cube-aa/)
+[![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/genzouw/ec-cube-aa.svg?style=for-the-badge)](https://hub.docker.com/r/genzouw/ec-cube-aa/)
+
+[![dockeri.co](https://dockeri.co/image/genzouw/ec-cube-aa)](https://hub.docker.com/r/genzouw/ec-cube-aa)
+
 ## Description
 
 Print colorful [EC-CUBE](https://www.ec-cube.net/) icon on your terminal.
